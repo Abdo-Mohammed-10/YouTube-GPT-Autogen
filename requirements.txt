@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+autogen-agentchat
+autogen-core
+autogen-ext[openai]
+pytubefix
