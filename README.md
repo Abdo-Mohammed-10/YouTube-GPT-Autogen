@@ -62,4 +62,4 @@ Open your browser to the local URL provided (usually `http://localhost:8501`).
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Abdulrahman Mohammed]
